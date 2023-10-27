@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haldiane
 - 👀 I’m interested in contatos iniciais da programação
 - 🌱 I’m currently learning HTMS e CSS
-- 💞️ I’m looking to collaborate on at the moment, I just observe and research to improve my knowledge.
+- 💞️ I try to collaborate but at the moment, I just observe and research to improve my knowledge
 - 📫 How to reach me haldianess@gmail.com
 
 <!---
