@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Haldiane
-- 👀 I’m interested in contatos iniciais da programação
-- 🌱 I’m currently learning HTMS e CSS
+- 👀 I’m interested in contatos iniciais da programação,
+- 🧑‍🎓 Estou estudando o alura
+- 🌱 I’m currently learning HTMS e CSS,javaScript
 - 💞️ I try to collaborate but at the moment, I just observe and research to improve my knowledge
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - 📫 How to reach me haldianess@gmail.com
 
 <!---
